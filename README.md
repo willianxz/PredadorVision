@@ -2,7 +2,7 @@
 
 Olá, esse código foi construido com a intenção de ser usado para testar webcam do computador usando filtros em tempo real.
 
-Para ver esse código rodando entre nessa URL:
+Para ver esse código rodando entre nesse link:
 https://willianxz.github.io/PredadorVision/
 
 Clique com o lado direito do mouse para alterar seu modo de visualização!!
