@@ -73,21 +73,21 @@ function draw() {
 
 function filtersInvert() {
     filter(INVERT); 
-};
+}
 
 function filtersPosterize() {
     filter(POSTERIZE, 3); 
-};
+}
 
 function filtersDilate() {
     filter(DILATE); 
-};
+}
 function filtersBlur(){
     filter(BLUR, 3); 
-};
+}
 function filtersErode(){
     filter(ERODE); 
-};
+}
 
 function filterTherehold(){
   filter(THRESHOLD);
@@ -96,7 +96,7 @@ function filterTherehold(){
 function mousePressed(){
     song.play();
     visao++;
-};
+}
 
 function keyPressed() {
   if (keyCode == 83) {        
